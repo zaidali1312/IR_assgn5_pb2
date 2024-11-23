@@ -1,0 +1,7 @@
+nltk
+numpy
+pandas
+rank-bm25
+scikit-learn
+matplotlib
+whoosh
